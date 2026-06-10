@@ -1,8 +1,42 @@
-# Scrimba-Fullstack-Developer-Path-Projects
-Building Projects to reinforce my learning journey about the entire stack from backend to frontend. Focused on skills from the JavaScript ecosystem, like React, Node, Express, Next, AI engineering and more !
+# 🧱 Fullstack Developer Path
+
+Project-based learning through the entire JavaScript stack. From HTML/CSS fundamentals to React, Node.js, Express, Next.js, and AI engineering.
+
+> 📚 Curriculum: [Scrimba Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack?via=u019s7t)
 
 ---
 
-## 🌄 HTML and CSS Fundamentals
+## 🗺️ Progress
 
-- [**Build a Personal Website**](https://github.com/MouH-117/Build-a-Personal-Website)
+| Module | Status |
+|---|---|
+| HTML & CSS Fundamentals | 🔄 In Progress |
+| JavaScript Essentials | ⏳ Upcoming |
+| React | ⏳ Upcoming |
+| Node.js & Express | ⏳ Upcoming |
+| Next.js | ⏳ Upcoming |
+| AI Engineering | ⏳ Upcoming |
+
+---
+
+## 📁 Projects
+
+### 🌐 HTML & CSS Fundamentals
+| Project | Repo | Live |
+|---|---|---|
+| Personal Website | [Build-a-Personal-Website](https://github.com/MouH-117/Build-a-Personal-Website) | [Demo](#) |
+
+### ⚡ JavaScript Essentials
+| Project | Repo | Live |
+|---|---|---|
+| *Coming soon* | — | — |
+
+### ⚛️ React
+| Project | Repo | Live |
+|---|---|---|
+| *Coming soon* | — | — |
+
+---
+
+## 🛠️ Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css&perline=7)](https://skillicons.dev)
