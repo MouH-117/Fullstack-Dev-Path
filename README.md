@@ -25,7 +25,7 @@ Project-based learning through the entire JavaScript stack. From HTML/CSS fundam
 | Project | Repo | Live |
 |---|---|---|
 | Personal Website | [Personal-Website](https://github.com/MouH-117/Personal-Website) | ❌ |
-| Business Card | [Business-Card](#) | ❌ |
+| Business Card | [Business-Card](https://github.com/MouH-117/Business-Card) | ❌ |
 
 ### ⚡ JavaScript Essentials
 | Project | Repo | Live |
