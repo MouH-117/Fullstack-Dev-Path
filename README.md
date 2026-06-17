@@ -32,7 +32,7 @@ Project-based learning through the entire JavaScript stack. From HTML/CSS fundam
 ### ⚡ JavaScript Fundamentals
 | Project | Repo | Live |
 |---|---|---|
-| Counter App | [Counter-App]() | ❌ |
+| Counter App | [Counter-App](#) | ❌ |
 
 ### ⚡ JavaScript Essentials
 | Project | Repo | Live |
