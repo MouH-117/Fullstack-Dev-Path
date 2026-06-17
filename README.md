@@ -29,6 +29,11 @@ Project-based learning through the entire JavaScript stack. From HTML/CSS fundam
 | Space Exploration | [Space-Exploration](https://github.com/MouH-117/Space-Exploration) | ❌ |
 | Birthday GIFt | [Birthday-GIFt](https://github.com/MouH-117/Birthday-GIFt) | ❌ |
 
+### ⚡ JavaScript Fundamentals
+| Project | Repo | Live |
+|---|---|---|
+| Counter App | [Counter-App]() | ❌ |
+
 ### ⚡ JavaScript Essentials
 | Project | Repo | Live |
 |---|---|---|
